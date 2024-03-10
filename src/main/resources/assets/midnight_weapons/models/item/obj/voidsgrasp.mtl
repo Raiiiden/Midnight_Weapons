@@ -1,0 +1,8 @@
+# Made in Blockbench 4.9.4
+newmtl m_20d3d89d-045c-a698-b712-1dca050fb8f1
+map_Kd midnight_weapons:item/void_2
+newmtl m_c820e7e7-f1e4-9ffd-0552-d6fe5290f2ef
+map_Kd midnight_weapons:item/void_1
+newmtl m_aebec7d0-b8ac-5d2a-ac0b-5348257419f1
+map_Kd midnight_weapons:item/void_0
+newmtl none

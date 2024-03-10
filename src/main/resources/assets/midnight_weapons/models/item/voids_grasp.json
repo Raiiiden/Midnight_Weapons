@@ -1,0 +1,38 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "midnight_weapons:models/item/obj/voidsgrasp.obj",
+  "display":
+  {
+    "gui":
+    {
+      "translation": [0, 0, 1],
+      "rotation": [0, 0, 45],
+      "scale": [0.45, 0.45, 0.45]
+    },
+    "thirdperson_righthand":
+      {
+        "translation": [0, 15.4, 2],
+        "rotation": [180, 90, 0],
+        "scale": [1.1, 1.1, 1.1]
+      },
+    "firstperson_righthand":
+      {
+        "translation": [0, 20, 0],
+        "rotation": [0, 90, 180],
+        "scale": [1.1, 1.1, 1.1]
+      },
+    "thirdperson_lefthand":
+      {
+        "translation": [0, 15.4, 2],
+        "rotation": [180, 90, 0],
+        "scale": [1.1, 1.1, 1.1]
+      },
+    "firstperson_lefthand":
+      {
+        "translation": [0, 20, 0],
+        "rotation": [0, 90, 180],
+        "scale": [1.1, 1.1, 1.1]
+      }
+    }
+}

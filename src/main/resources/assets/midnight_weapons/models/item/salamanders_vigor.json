@@ -4,6 +4,6 @@
     "2": "midnight_weapons:block/sword",
     "3": "midnight_weapons:block/salamandersvigor1",
     "4": "midnight_weapons:block/salamandersvigor2",
-    "particle": "midnight_weapons:item/sword"
+    "particle": "midnight_weapons:block/salamandersvigor1"
   }
 }

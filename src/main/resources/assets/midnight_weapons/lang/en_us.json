@@ -22,11 +22,11 @@
   "item.midnight_weapons.moonlight_glaive": "Moonlight Glaive",
   "item.midnight_weapons.boneshatter_greatsword": "Boneshatter Greatsword",
   "item.midnight_weapons.moonlight_dagger": "Moonlight Dagger",
-  "item.midnight_weapons.salamanders_vigor": "Salamanders Vigor",
+  "item.midnight_weapons.salamanders_vigor": "Salamander's Vigor",
   "item.midnight_weapons.eagle_fang": "Eagle Fang",
   "item.midnight_weapons.murasama": "Murasama",
   "item.midnight_weapons.ender_blade": "Ender Blade",
-  "item.midnight_weapons.salamanders_zeal": "Salamanders Zeal",
+  "item.midnight_weapons.salamanders_zeal": "Salamander's Zeal",
   "item.midnight_weapons.archangel_sword": "Archangel Sword",
   "item.midnight_weapons.ghastly_spear": "Ghastly Spear",
   "item.midnight_weapons.frostreaper": "Frostreaper",
@@ -41,5 +41,6 @@
   "item.midnight_weapons.demonic_blade": "Demonic Blade",
   "item.midnight_weapons.royal_slash": "Royal Slash",
   "item.midnight_weapons.hei_long_jian": "Hei Long Jian",
-  "item.midnight_weapons.chaos_eater": "Chaos Eater"
+  "item.midnight_weapons.chaos_eater": "Chaos Eater",
+  "item.midnight_weapons.voids_grasp": "Void's Grasp"
 }

@@ -1,9 +1,8 @@
 {
   "parent": "midnight_weapons:custom/bloodydeath",
   "textures": {
-    "0": "midnight_weapons:block/bloodydeath",
-    "1": "midnight_weapons:block/bloody_blood",
-    "missing": "midnight_weapons:block/bloody_blood",
-    "particle": "midnight_weapons:item/bloodydeath"
+    "1": "midnight_weapons:item/bloodydeath",
+    "2": "midnight_weapons:block/bloody_blood",
+    "particle": "midnight_weapons:block/bloody_blood"
   }
 }

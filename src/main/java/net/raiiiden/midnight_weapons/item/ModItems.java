@@ -34,6 +34,10 @@ public class ModItems {
             () -> new SwordItem(Tiers.DIAMOND, 8, -2.4F, new Item.Properties().durability(0)));
     public static final RegistryObject<Item> CRIMSON_SHADOWBLADE = ITEMS.register("crimson_shadowblade",
             () -> new SwordItem(Tiers.DIAMOND, 6, -2.7F, new Item.Properties().durability(4200)));
+    public static final RegistryObject<Item> CURSED_LONGSWORD = ITEMS.register("cursed_longsword",
+            () -> new SwordItem(Tiers.DIAMOND, 6, -2.4F, new Item.Properties().durability(6000)));
+    public static final RegistryObject<Item> CURSED_SPEAR = ITEMS.register("cursed_spear",
+            () -> new SwordItem(Tiers.DIAMOND, 7, -2.6F, new Item.Properties().durability(6000)));
     public static final RegistryObject<Item> DAYBREAKER = ITEMS.register("daybreaker",
             () -> new SwordItem(Tiers.DIAMOND, 5, -2.5F, new Item.Properties()));
     public static final RegistryObject<Item> DEATHBRINGER = ITEMS.register("death_bringer",
@@ -50,6 +54,8 @@ public class ModItems {
             () -> new SwordItem(Tiers.DIAMOND, 12, -3.0F, new Item.Properties().durability(6666)));
     public static final RegistryObject<Item> DRACONIC_GAUNTLET = ITEMS.register("draconic_gauntlet",
             () -> new SwordItem(Tiers.DIAMOND, 6, -1.9F, new Item.Properties().durability(0)));
+    public static final RegistryObject<Item> DRAGONFIRE_GREAT_AXE = ITEMS.register("dragonfire_great_axe",
+            () -> new SwordItem(Tiers.DIAMOND, 20, -3.0F, new Item.Properties().durability(3000)));
     public static final RegistryObject<Item> EAGLE_CLAW = ITEMS.register("eagle_claw",
             () -> new SwordItem(Tiers.DIAMOND, 1, -1.8F, new Item.Properties().durability(3000)));
     public static final RegistryObject<Item> EAGLE_FANG = ITEMS.register("eagle_fang",
@@ -68,7 +74,7 @@ public class ModItems {
             () -> new SwordItem(Tiers.DIAMOND, 6, -2.8F, new Item.Properties().durability(1000)));
     public static final RegistryObject<Item> GRANOLA = ITEMS.register("granola",
             () -> new SwordItem(Tiers.DIAMOND, 5, -2.5F, new Item.Properties().durability(3000)));
-    public static final RegistryObject<Item> HEILONGJIAN = ITEMS.register("heilongjian",
+    public static final RegistryObject<Item> HEILONGJIAN = ITEMS.register("hei_long_jian",
             () -> new SwordItem(Tiers.DIAMOND, 3, -2.3F, new Item.Properties().durability(2000)));
     public static final RegistryObject<Item> HEROIC_SWORD = ITEMS.register("heroic_sword",
             () -> new SwordItem(Tiers.DIAMOND, 6, -2.5F, new Item.Properties().durability(0)));
@@ -76,8 +82,28 @@ public class ModItems {
             () -> new SwordItem(Tiers.DIAMOND, 6, -2.5F, new Item.Properties().durability(0)));
     public static final RegistryObject<Item> KINGS_DAGGER = ITEMS.register("kings_dagger",
             () -> new SwordItem(Tiers.DIAMOND, 3, -1.6F, new Item.Properties().durability(0)));
+    public static final RegistryObject<Item> MOONLIGHT_DAGGER = ITEMS.register("moonlight_dagger",
+            () -> new SwordItem(Tiers.DIAMOND, 2, -2.1F, new Item.Properties().durability(2100)));
+    public static final RegistryObject<Item> MOONLIGHT_GLAIVE = ITEMS.register("moonlight_glaive",
+            () -> new SwordItem(Tiers.DIAMOND, 5, -2.6F, new Item.Properties().durability(4200)));
     public static final RegistryObject<Item> MURASAMA = ITEMS.register("murasama",
-            () -> new SwordItem(Tiers.DIAMOND, 6, -2.5F, new Item.Properties().durability(9999)));
+            () -> new SwordItem(Tiers.DIAMOND, 10, -2.5F, new Item.Properties().durability(9999)));
+    public static final RegistryObject<Item> PHOENIX_WING = ITEMS.register("phoenix_wing",
+            () -> new SwordItem(Tiers.DIAMOND, 4, -2.3F, new Item.Properties().durability(8000)));
+    public static final RegistryObject<Item> RIPPERS = ITEMS.register("rippers",
+            () -> new SwordItem(Tiers.DIAMOND, 0, -0.6F, new Item.Properties().durability(1000)));
+    public static final RegistryObject<Item> RIVERS_OF_BLOOD = ITEMS.register("rivers_of_blood",
+            () -> new SwordItem(Tiers.DIAMOND, 4, -2.5F, new Item.Properties().durability(2400)));
+    public static final RegistryObject<Item> ROYAL_SLASH = ITEMS.register("royal_slash",
+            () -> new SwordItem(Tiers.DIAMOND, 3, -2.6F, new Item.Properties().durability(1400)));
+    public static final RegistryObject<Item> SALAMANDERS_VIGOR = ITEMS.register("salamanders_vigor",
+            () -> new SwordItem(Tiers.DIAMOND, 3, -2.0F, new Item.Properties().durability(4200)));
+    public static final RegistryObject<Item> SALAMANDERS_ZEAL = ITEMS.register("salamanders_zeal",
+            () -> new SwordItem(Tiers.DIAMOND, 3, -2.0F, new Item.Properties().durability(4200)));
+    public static final RegistryObject<Item> VOIDSGRASP = ITEMS.register("voids_grasp",
+            () -> new SwordItem(Tiers.DIAMOND, 12, -2.3F, new Item.Properties().durability(9999)));
+    public static final RegistryObject<Item> VOIDREAPER = ITEMS.register("voidreaper",
+            () -> new SwordItem(Tiers.DIAMOND, 14, -2.2F, new Item.Properties().durability(9999)));
 
     public static void register(IEventBus eventBus)
     {

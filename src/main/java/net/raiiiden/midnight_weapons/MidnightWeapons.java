@@ -59,6 +59,8 @@ public class MidnightWeapons
             event.accept(ModItems.CHAOS_EATER);
             event.accept(ModItems.CRIMSON_REAVER);
             event.accept(ModItems.CRIMSON_SHADOWBLADE);
+            event.accept(ModItems.CURSED_LONGSWORD);
+            event.accept(ModItems.CURSED_SPEAR);
             event.accept(ModItems.DAYBREAKER);
             event.accept(ModItems.DEATHBRINGER);
             event.accept(ModItems.DEMONICBLADE);
@@ -67,6 +69,7 @@ public class MidnightWeapons
             event.accept(ModItems.DEVOURER);
             event.accept(ModItems.DRACONIC_FROSTREAPER);
             event.accept(ModItems.DRACONIC_GAUNTLET);
+            event.accept(ModItems.DRAGONFIRE_GREAT_AXE);
             event.accept(ModItems.EAGLE_CLAW);
             event.accept(ModItems.EAGLE_FANG);
             event.accept(ModItems.EMERALDIAN_GREATSWORD);
@@ -80,7 +83,17 @@ public class MidnightWeapons
             event.accept(ModItems.HEROIC_SWORD);
             event.accept(ModItems.HOLY_LONGSWORD);
             event.accept(ModItems.KINGS_DAGGER);
+            event.accept(ModItems.MOONLIGHT_DAGGER);
+            event.accept(ModItems.MOONLIGHT_GLAIVE);
             event.accept(ModItems.MURASAMA);
+            event.accept(ModItems.PHOENIX_WING);
+            event.accept(ModItems.RIPPERS);
+            event.accept(ModItems.RIVERS_OF_BLOOD);
+            event.accept(ModItems.ROYAL_SLASH);
+            event.accept(ModItems.SALAMANDERS_VIGOR);
+            event.accept(ModItems.SALAMANDERS_ZEAL);
+            event.accept(ModItems.VOIDREAPER);
+            event.accept(ModItems.VOIDSGRASP);
         }
     }
 
