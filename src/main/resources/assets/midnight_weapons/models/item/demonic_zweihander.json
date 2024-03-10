@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/demonic_zweihander",
+  "textures": {
+    "2": "midnight_weapons:block/demonic_zweihander",
+    "particle": "midnight_weapons:item/demonic_zweihander"
+  }
+}

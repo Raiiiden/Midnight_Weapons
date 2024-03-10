@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/holy_sword",
+  "textures": {
+    "2": "midnight_weapons:block/holy_sword",
+    "particle": "midnight_weapons:item/holy_sword"
+  }
+}

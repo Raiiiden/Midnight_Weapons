@@ -1,0 +1,9 @@
+{
+  "parent": "midnight_weapons:custom/salamanders_zeal",
+  "textures": {
+    "4": "midnight_weapons:block/salamandersvigor2",
+    "5": "midnight_weapons:block/salamanderszeal4",
+    "6": "midnight_weapons:block/spear",
+    "particle": "midnight_weapons:item/spear"
+  }
+}

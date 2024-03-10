@@ -1,0 +1,8 @@
+{
+  "parent": "midnight_weapons:custom/herosword",
+  "textures": {
+    "0": "midnight_weapons:block/herosword",
+    "missing": "midnight_weapons:block/",
+    "particle": "midnight_weapons:item/herosword"
+  }
+}

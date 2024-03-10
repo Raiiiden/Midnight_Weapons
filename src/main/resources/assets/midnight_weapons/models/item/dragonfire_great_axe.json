@@ -1,0 +1,8 @@
+{
+  "parent": "midnight_weapons:custom/axered",
+  "textures": {
+    "2": "midnight_weapons:block/animations_1",
+    "3": "midnight_weapons:block/axe",
+    "particle": "midnight_weapons:item/axe"
+  }
+}

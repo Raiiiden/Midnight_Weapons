@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/eagle_claw",
+  "textures": {
+    "0": "midnight_weapons:block/eagle_claw",
+    "particle": "midnight_weapons:item/eagle_claw"
+  }
+}

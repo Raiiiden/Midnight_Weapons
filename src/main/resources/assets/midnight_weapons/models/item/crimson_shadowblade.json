@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/somethin",
+  "textures": {
+    "2": "midnight_weapons:block/something",
+    "particle": "midnight_weapons:item/something"
+  }
+}

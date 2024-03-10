@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/bloodthirst",
+  "textures": {
+    "0": "midnight_weapons:block/bloodthirst",
+    "particle": "midnight_weapons:item/bloody_blood"
+  }
+}

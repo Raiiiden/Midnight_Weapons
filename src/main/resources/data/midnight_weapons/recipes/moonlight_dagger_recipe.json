@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "midnight_weapons:moonlight_dagger"
+  },
+  "addition": {
+    "item": "midnight_weapons:moonlight_dagger"
+  },
+  "result": {
+    "item": "midnight_weapons:moonlight_glaive"
+  }
+}

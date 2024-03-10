@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/moonlight_glaive_spear.geo_-_converted_-_converted",
+  "textures": {
+    "0": "midnight_weapons:block/moonlight_glaive",
+    "particle": "midnight_weapons:item/moonlight_glaive"
+  }
+}

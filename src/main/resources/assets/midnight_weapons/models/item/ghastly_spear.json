@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/ghastly_spear",
+  "textures": {
+    "0": "midnight_weapons:block/knight",
+    "particle": "midnight_weapons:item/knight"
+  }
+}

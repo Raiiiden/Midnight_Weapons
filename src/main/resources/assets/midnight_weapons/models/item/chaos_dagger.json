@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/chaos_dagger",
+  "textures": {
+    "1": "midnight_weapons:block/chasoeater",
+    "particle": "midnight_weapons:item/chasoeater"
+  }
+}

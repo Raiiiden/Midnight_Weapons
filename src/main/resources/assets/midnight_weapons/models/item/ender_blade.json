@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/ender_blade",
+  "textures": {
+    "2": "midnight_weapons:block/ender_blade",
+    "particle": "midnight_weapons:item/ender_blade"
+  }
+}

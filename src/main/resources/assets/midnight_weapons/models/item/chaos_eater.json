@@ -1,0 +1,8 @@
+{
+  "parent": "midnight_weapons:custom/chaos_eater",
+  "textures": {
+    "3": "midnight_weapons:block/chasoeater",
+    "missing": "midnight_weapons:block/chasoeater",
+    "particle": "midnight_weapons:item/chasoeater"
+  }
+}

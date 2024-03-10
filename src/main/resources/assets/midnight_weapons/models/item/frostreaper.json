@@ -1,0 +1,10 @@
+{
+  "parent": "midnight_weapons:custom/frostreaper",
+  "textures": {
+    "1": "midnight_weapons:block/glacia_staff",
+    "3": "midnight_weapons:block/spear_snowflake",
+    "1_3": "midnight_weapons:block/eye",
+    "missing": "midnight_weapons:block/",
+    "particle": "midnight_weapons:item/spear_snowflake"
+  }
+}

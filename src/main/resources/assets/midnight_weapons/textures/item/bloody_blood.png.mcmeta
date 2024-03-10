@@ -1,0 +1,8 @@
+{
+  "animation": {
+    "frameTime": 2,
+    "interpolate": false,
+    "totalFrames": 11,
+    "frameIndices": [...Array(11).keys()]
+  }
+}

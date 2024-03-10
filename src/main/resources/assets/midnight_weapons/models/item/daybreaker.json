@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/daybreaker",
+  "textures": {
+    "2": "midnight_weapons:block/daybreaker",
+    "particle": "midnight_weapons:item/daybreaker"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "animation": {
+    "frameTime": 2, // time between each frame in seconds
+    "interpolate": false, // whether to interpolate between frames
+    "frameIndices": [ // array of frame indices
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

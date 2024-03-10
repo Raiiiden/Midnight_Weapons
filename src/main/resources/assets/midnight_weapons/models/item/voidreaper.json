@@ -1,0 +1,10 @@
+{
+  "parent": "midnight_weapons:custom/raidens_sword",
+  "textures": {
+    "0": "midnight_weapons:block/vladimir_sword",
+    "1": "midnight_weapons:block/sword_haunted",
+    "2": "midnight_weapons:block/shadow",
+    "4": "midnight_weapons:block/vladimir_sword_1",
+    "particle": "midnight_weapons:item/vladimir_sword"
+  }
+}

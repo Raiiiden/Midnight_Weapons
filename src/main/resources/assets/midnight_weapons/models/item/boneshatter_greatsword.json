@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/boneshatter",
+  "textures": {
+    "1": "midnight_weapons:block/dark_crusader_sword",
+    "particle": "midnight_weapons:item/dark_crusader_sword"
+  }
+}

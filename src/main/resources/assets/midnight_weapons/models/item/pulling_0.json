@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/daedric",
+  "textures": {
+    "0": "midnight_weapons:blocks/daedric",
+    "particle": "midnight_weapons:items/daedric"
+  }
+}

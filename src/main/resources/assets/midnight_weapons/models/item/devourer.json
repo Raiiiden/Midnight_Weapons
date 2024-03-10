@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/demonic_greatsword",
+  "textures": {
+    "0": "midnight_weapons:block/demonic_greatsword",
+    "particle": "midnight_weapons:item/demonic_greatsword"
+  }
+}

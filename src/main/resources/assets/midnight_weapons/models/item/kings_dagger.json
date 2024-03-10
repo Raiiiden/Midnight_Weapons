@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/kings_dagger",
+  "textures": {
+    "1": "midnight_weapons:block/kingsdagger",
+    "particle": "midnight_weapons:item/kingsdagger"
+  }
+}

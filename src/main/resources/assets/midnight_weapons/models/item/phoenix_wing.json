@@ -1,0 +1,8 @@
+{
+  "parent": "midnight_weapons:custom/phoenixwing",
+  "textures": {
+    "3": "midnight_weapons:block/phoenixwing",
+    "missing": "midnight_weapons:block/phoenixwing",
+    "particle": "midnight_weapons:item/phoenixwing"
+  }
+}

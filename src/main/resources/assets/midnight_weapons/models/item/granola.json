@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/granola",
+  "textures": {
+    "0": "midnight_weapons:block/granola",
+    "particle": "midnight_weapons:item/granola"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/emeraldian_greatsword",
+  "textures": {
+    "1": "midnight_weapons:block/shadow_blade",
+    "particle": "midnight_weapons:item/shadow_blade"
+  }
+}

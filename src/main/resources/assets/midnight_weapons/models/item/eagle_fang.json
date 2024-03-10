@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/eagle_fang",
+  "textures": {
+    "2": "midnight_weapons:block/eagle_fang",
+    "particle": "midnight_weapons:item/eagle_fang"
+  }
+}

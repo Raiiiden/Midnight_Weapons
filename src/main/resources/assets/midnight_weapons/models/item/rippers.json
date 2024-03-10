@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/rippers",
+  "textures": {
+    "0": "midnight_weapons:block/claws",
+    "particle": "midnight_weapons:item/claws"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/royal_slash",
+  "textures": {
+    "0": "midnight_weapons:block/royal_slash",
+    "particle": "midnight_weapons:item/royal_slash"
+  }
+}

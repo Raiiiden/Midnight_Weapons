@@ -1,0 +1,9 @@
+{
+  "parent": "midnight_weapons:custom/draconic_frostreaper",
+  "textures": {
+    "0": "midnight_weapons:block/bahamut_texture_01",
+    "2": "midnight_weapons:block/frostreaper2",
+    "4": "midnight_weapons:block/frostreaper",
+    "particle": "midnight_weapons:item/bahamut_texture_01"
+  }
+}

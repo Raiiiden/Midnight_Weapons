@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/heilongjian",
+  "textures": {
+    "2": "midnight_weapons:block/heilongjian",
+    "particle": "midnight_weapons:item/heilongjian"
+  }
+}

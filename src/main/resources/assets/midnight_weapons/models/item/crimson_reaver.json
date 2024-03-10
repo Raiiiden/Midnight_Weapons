@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/crimson_reaver",
+  "textures": {
+    "5": "midnight_weapons:block/crimson_reaver",
+    "particle": "midnight_weapons:item/crimson_reaver"
+  }
+}
