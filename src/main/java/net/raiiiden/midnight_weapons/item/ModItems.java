@@ -88,6 +88,8 @@ public class ModItems {
             () -> new SwordItem(Tiers.DIAMOND, 5, -2.6F, new Item.Properties().durability(4200)));
     public static final RegistryObject<Item> MURASAMA = ITEMS.register("murasama",
             () -> new SwordItem(Tiers.DIAMOND, 10, -2.5F, new Item.Properties().durability(9999)));
+    public static final RegistryObject<Item> MURASAMA_SHEATH = ITEMS.register("murasama_sheath",
+            () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PHOENIX_WING = ITEMS.register("phoenix_wing",
             () -> new SwordItem(Tiers.DIAMOND, 4, -2.3F, new Item.Properties().durability(8000)));
     public static final RegistryObject<Item> RIPPERS = ITEMS.register("rippers",

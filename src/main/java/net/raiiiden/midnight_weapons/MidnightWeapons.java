@@ -86,6 +86,7 @@ public class MidnightWeapons
             event.accept(ModItems.MOONLIGHT_DAGGER);
             event.accept(ModItems.MOONLIGHT_GLAIVE);
             event.accept(ModItems.MURASAMA);
+            event.accept(ModItems.MURASAMA_SHEATH);
             event.accept(ModItems.PHOENIX_WING);
             event.accept(ModItems.RIPPERS);
             event.accept(ModItems.RIVERS_OF_BLOOD);
