@@ -4,13 +4,13 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.raiiiden.midnight_weapons.MidnightWeapons;
-
-
-
+import org.jetbrains.annotations.NotNull;
+import yesman.epicfight.api.client.forgeevent.PatchedRenderersEvent;
 
 public class ModItems {
 
@@ -87,7 +87,7 @@ public class ModItems {
     public static final RegistryObject<Item> MOONLIGHT_GLAIVE = ITEMS.register("moonlight_glaive",
             () -> new SwordItem(Tiers.DIAMOND, 5, -2.6F, new Item.Properties().durability(4200)));
     public static final RegistryObject<Item> MURASAMA = ITEMS.register("murasama",
-            () -> new SwordItem(Tiers.DIAMOND, 10, -2.5F, new Item.Properties().durability(9999)));
+            () -> new SwordItem(Tiers.DIAMOND, 10, -2.2F, new Item.Properties().durability(9999)));
     public static final RegistryObject<Item> MURASAMA_SHEATH = ITEMS.register("murasama_sheath",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PHOENIX_WING = ITEMS.register("phoenix_wing",
@@ -106,6 +106,9 @@ public class ModItems {
             () -> new SwordItem(Tiers.DIAMOND, 12, -2.3F, new Item.Properties().durability(9999)));
     public static final RegistryObject<Item> VOIDREAPER = ITEMS.register("voidreaper",
             () -> new SwordItem(Tiers.DIAMOND, 14, -2.2F, new Item.Properties().durability(9999)));
+
+
+
 
     public static void register(IEventBus eventBus)
     {
